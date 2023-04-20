@@ -1,0 +1,7 @@
+Dear [Recipient's Name],
+I am excited to apply for the internship position at [Company Name] that I recently found listed on [where you found the job posting]. As an avid gamer with a passion for game design and development, I am confident that I have the skills and experience necessary to thrive in this position.
+Currently, I am a [Your current education status, e.g. junior/senior in college] majoring in [Your Major] at [Your Institution Name]. Throughout my academic career, I have taken several courses in game design, programming, and development, which have equipped me with a solid understanding of game engines such as Unity and Unreal Engine, as well as experience in programming languages such as C++, C#, and Java.
+In addition to my academic experience, I have also gained practical experience through several personal game development projects, both individually and collaboratively with others. Through these projects, I have honed my skills in game mechanics, level design, and 3D modeling, and have learned to work effectively in teams while maintaining excellent communication.
+I am highly motivated to work with [Company Name] to develop and publish innovative and engaging games. I am confident that I can contribute to the company's mission and vision, as well as learn valuable skills and gain valuable experience in the field of game development.
+Thank you for considering my application. I have attached my resume and portfolio for your review. I look forward to the opportunity to discuss my qualifications in more detail.
+Sincerely, [Your Name]
